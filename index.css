@@ -1,0 +1,19 @@
+body {
+  background-repeat: no-repeat;
+   background-size:cover;
+}
+li {
+  color: #d476e0;
+}
+hr {
+  color: #FFFFFF;
+}
+h1 {
+  color: #FFFFFF;
+}
+h2 {
+  color: #FFFFFF;
+}
+img {
+  border-color: coral;
+}
